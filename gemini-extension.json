@@ -1,0 +1,10 @@
+{
+  "name": "lastdatabase",
+  "version": "1.0.0",
+  "description": "Official LastDatabase MCP extension for Gemini CLI",
+  "mcpServers": {
+    "lastdatabase": {
+      "httpUrl": "https://lastdatabase.com/mcp"
+    }
+  }
+}
